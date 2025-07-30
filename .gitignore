@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Excel output
+*.xlsx
+
+# OS junk
+.DS_Store
+Thumbs.db
