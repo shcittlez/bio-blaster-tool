@@ -20,12 +20,12 @@
 
 1. **Run the app** (`.exe` download below)
 2. **Select a folder** that contains:
-   - A single `.xls` or `.xlsx` file (metadata)
-   - A subfolder containing `.seq` files
+   - A single subfolder containing `.seq` files
+   - And a '.xls' .xlsx` (metadata) file inside the same folder 
 3. **Click “Start”** — the app:
-   - Parses your sequences
-   - Submits to NCBI BLAST
-   - Writes results to Excel
+   - Parses your sequences, analyzing QS and CRL scores 
+   - Submits to NCBI BLAST, one at a time, (can be long) avoid midday US time
+   - Writes results to Excel reporting Sample Name, Primer, Sequence, Top Hit on NCBI with Accession #, Sequence Length, % Identitity, E - Value
 4. The output Excel file opens automatically
 
 ---
