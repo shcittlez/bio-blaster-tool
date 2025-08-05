@@ -16,7 +16,7 @@ def write_to_excel(samples: list[dict], output_path: Path):
 
     # Reorder and keep only relevant columns
     desired_columns = [
-        "TemplateName", "Primer", "Sequence",
+        "TemplateName", "Status", "Primer", "Sequence",
         "TopHit", "Length", "Identity", "E-value", "Accession"
     ]
     df = df[[col for col in desired_columns if col in df.columns]]
