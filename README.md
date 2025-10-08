@@ -2,8 +2,6 @@
 
 **BioBlaster** is a lightweight desktop app for parsing DNA sequence files, running NCBI BLAST queries, and exporting annotated results to Excel.
 
-![BioBlaster screenshot](https://your-image-link-here) <!-- Optional: add screenshot later -->
-
 ---
 
 ## Features
