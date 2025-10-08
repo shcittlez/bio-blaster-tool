@@ -1,4 +1,4 @@
-# 🔬 BioBlaster
+#  BioBlaster
 
 **BioBlaster** is a lightweight desktop app for parsing DNA sequence files, running NCBI BLAST queries, and exporting annotated results to Excel.
 
@@ -6,17 +6,17 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧬 Batch parsing of `.seq` DNA sequence files
-- 🌐 Automatic NCBI BLAST search for top hit alignment
-- 📊 Exports to Excel with quality metrics
-- 🖼️ Intuitive GUI (Tkinter-based)
-- 💾 Standalone `.exe` — no Python install required
+-  Batch parsing of `.seq` DNA sequence files
+-  Automatic NCBI BLAST search for top hit alignment
+-  Exports to Excel with quality metrics
+-  Intuitive GUI (Tkinter-based)
+-  Standalone `.exe` — no Python install required
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Run the app** (`.exe` download below)
 2. **Select a folder** that contains:
@@ -30,15 +30,13 @@
 
 ---
 
-## 📥 Download
+##  Download
 
-👉 [**Download BioBlaster (.exe)**](https://github.com/shcittlez/bio-blaster-tool/releases/download/v1.0.0/BioBlaster.exe)
-
-> 💡 Just download and run — no install needed.
+ [**Download BioBlaster (.exe)**](https://github.com/shcittlez/bio-blaster-tool/releases/download/v1.0.0/BioBlaster.exe)
 
 ---
 
-## 🛠️ Developer Setup (optional)
+##  Developer Setup (optional)
 
 Want to modify or run from source?
 
